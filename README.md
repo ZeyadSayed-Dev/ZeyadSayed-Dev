@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Zeyad Sayed <br>👨‍💻 I'm a CS student at Cairo university <br>👯 I’m looking to collaborate on Open-Source  projects<br>🤝 I’m looking for help with my learning tripe <br>🌱 I’m currently learning fundamentals of programming <br>
+Hi my name is Zeyad Sayed <br>👨‍💻 I'm a CS student at Cairo university <br>👯 I’m looking to collaborate on Open-Source  projects<br>🤝 I’m looking for help with my learning trip <br>🌱 I’m currently learning fundamentals of programming <br>
 
 
 ## 🌐 Socials:
